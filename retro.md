@@ -29,7 +29,8 @@
 
 As the moderator, your job during this part of the discussion is two-fold: making sure people follow those guidelines, and helping the discussion move towards figuring out how to solve the problems that are raised. You should be taking notes of any proposed action items; ideally, the discussion for each topic in the 'sad' column should end with one or more proposed action items. Everybody should agree on the action items. You should feel free to interrupt people, ask people to rephrase, or cut any discussion short. 
 
-  Guidelines for creating action items:
+Guidelines for creating action items:
+
     * Each action item should have an owner
     * Each action item should have a clear due date
     * Each action item should be a clearly defined task; i.e., one that you can look at and say 'yes that was done'. If it's too nebulous it won't be useful.
