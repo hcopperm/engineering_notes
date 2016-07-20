@@ -38,3 +38,9 @@ These guidelines are written for the retrospective moderator but they will be us
   Often this meeting will run over time; I usually let it go on maybe 10 minutes past an hour, but much more than that and it almost always stops being productive, so even if people are still talking feel free to wrap up the meeting.
 
   After the retro is done, collect all the sticky notes and write them up. Make sure that you save the notes somewhere where the whole team can easily access them.
+  
+  
+  
+  ### Suggestions for remote teams
+  * https://www.retrospectus.com/
+  * https://pinitto.me/
