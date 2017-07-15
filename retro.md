@@ -10,19 +10,19 @@ These guidelines are written for the retrospective moderator but they will be us
 
 4. Give everybody 5-7 min to write stuff down. Don't give people too much time, you will just end up with too much stuff to talk about. Feel free to stop people even if they're still writing.
 
-  Guidelines for writing things on sticky notes:
+    Guidelines for writing things on sticky notes:
   
-  * One idea per sticky note
-  * Mark each sticky note with a :-) or :-(
-  * You can write about anything you want--team-specific issues, company issues, office space, the weather, whatever
+    * One idea per sticky note
+    * Mark each sticky note with a :-) or :-(
+    * You can write about anything you want--team-specific issues, company issues, office space, the weather, whatever
 
-  4.5 Team Health: I tracked team health at each retro, but I don't know how useful it is. It's mostly just an interesting factoid. Each person should write down a number between 1 and 10 that describes their own personal work health for the past two weeks; everybody kind of defines 'work health' differently, but I liked to think of it as 'how happy was I at work'.
+    4.5 Team Health: I tracked team health at each retro, but I don't know how useful it is. It's mostly just an interesting factoid. Each person should write down a number between 1 and 10 that describes their own personal work health for the past two weeks; everybody kind of defines 'work health' differently, but I liked to think of it as 'how happy was I at work'.
 
 5. Have everybody put their sticky notes face down in a pile (once again for maintaining anonymity.) Your job now is to put all the sticky notes on the whiteboard, grouped by topic. As the facilitator you get to decide how to group things, but you should see that things kind of naturally fall into their own groupings. (If you're tracking team health, you don't have to put those numbers up on the board, you can just add them up + calculate the average later).
 
 6. Discussion time! You should still have about 45 minutes left. I usually will do an overview of everything in the 'happy' column first. If there are things praising people by name I'll read those out individually; if not I'll just do a summary: "people were happy it was a three-day weekend, people are happy that XYZ got done", etc. Ask if people have anything else to add; otherwise it's on to the 'sad' column.
 
-  Guidelines for discussion (you should make sure everybody understands these beforehand and agrees to them):
+  ## Guidelines for discussion (you should make sure everybody understands these beforehand and agrees to them):
     
   * Always assume everybody is doing their best. This is really important and is the key to having successful discussions where nobody feels like they need to get defensive
   * Don't blame people. This goes hand in hand with the previous item. As the moderator you should feel free to jump in and ask someone to rephrase something if you feel like they are accusing people; you can ask them to stick to describing the facts rather than guessing at why someone did something.
@@ -31,7 +31,7 @@ These guidelines are written for the retrospective moderator but they will be us
 
   As the moderator, your job during this part of the discussion is two-fold: making sure people follow those guidelines, and helping the discussion move towards figuring out how to solve the problems that are raised. You should be taking notes of any proposed action items; ideally, the discussion for each topic in the 'sad' column should end with one or more proposed action items. Everybody should agree on the action items. You should feel free to interrupt people, ask people to rephrase, or cut any discussion short.
 
-  Guidelines for creating action items:
+  ## Guidelines for creating action items:
    
   * Each action item should have an owner
   * Each action item should have a clear due date
